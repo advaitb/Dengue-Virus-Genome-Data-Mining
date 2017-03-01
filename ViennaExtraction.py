@@ -12,7 +12,7 @@ with open(r"C:\Users\garfield\Python27\15Dec15-04-38-19_1.b") as file, open(r"C:
 	pairs = []
 	i=0
 	j=0
-	f.writelines(" 
+	f.writelines(" ")
 	f.writelines(inp1 + '\n')
 	for k in range(len(inp1)):
 		f.write(str(k))
